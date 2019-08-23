@@ -1,0 +1,50 @@
+#section1{
+  height: 628px;
+  background-size: cover;
+  background-image: url("../img/h_img.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+
+}
+
+#span{
+  align-items: center;
+  top: 50%;
+  left: 50%;
+}
+
+#section2{
+  height: 314px;
+  background-color: white;
+  text-align: center;
+}
+
+#section3{
+  height:  314px;
+  background-image: url("../img/s_image.jpg");
+  text-align: center;
+}
+
+#section4{
+  height:  auto;
+  background-image: url()
+  background-color: blue;
+  text-align: center;
+}
+
+#section5{
+  height:  628px;
+  background-image: url("../img/c_image.jpg");
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+  /* confirm height */
