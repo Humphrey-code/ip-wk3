@@ -2,22 +2,21 @@ body{
   font-family: 'Merienda', cursive;
 }
 #section1{
-  height: 628px;
+  position: relative;
+  height: 670px;
   background-size: cover;
   background-image: url("../img/h_img.jpg");
   background-repeat: no-repeat;
-  text-align: middle;
+  text-align: center;
+  text-shadow: 2px 2px 2px;
+  color: white;
 }
 
-#span{
-  align-items: center;
-  top: 50%;
-  left: 50%;
-}
 
 #section2{
   height: 314px;
   background-color: white;
+  color: black;
   text-align: center;
 }
 
@@ -25,19 +24,23 @@ body{
   height:  314px;
   background-image: url("../img/s_image.jpg");
   text-align: center;
+  color: white;
 }
+
+
 
 #section4{
   height:  auto;
-  background-image: url()
-  background-color: blue;
+  color: black;
   text-align: center;
 }
 
 #section5{
   height: 500px;
   background-image: url("../img/c_image.jpg");
+  background-size: cover;
   text-align: center;
+  color: white;
 }
 
 #section6{
@@ -49,4 +52,12 @@ textarea,input[type=text]{
   background: transparent;
   border-color: white;
   border-style: solid;
+}
+
+::placeholder{
+  color: white
+}
+
+h4{
+  font-weight: bold;
 }
