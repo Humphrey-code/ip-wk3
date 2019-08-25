@@ -39,3 +39,100 @@ $(document).ready(function(){
     $("#prod_par").toggle();
   });
 });
+
+
+$(document).ready(function(){
+  $("#work1").mouseleave(function(){
+    $("#p1").hide();
+  });
+});
+
+$(document).ready(function(){
+  $("#work1").mouseover(function(){
+    $("#p1").show();
+  });
+});
+
+$(document).ready(function(){
+  $("#work2").mouseleave(function(){
+    $("#p2").hide();
+  });
+});
+
+$(document).ready(function(){
+  $("#work2").mouseover(function(){
+    $("#p2").show();
+  });
+});
+
+$(document).ready(function(){
+  $("#work3").mouseleave(function(){
+    $("#p3").hide();
+  });
+});
+
+$(document).ready(function(){
+  $("#work3").mouseover(function(){
+    $("#p3").show();
+  });
+});
+
+$(document).ready(function(){
+  $("#work4").mouseleave(function(){
+    $("#p4").hide();
+  });
+});
+
+$(document).ready(function(){
+  $("#work4").mouseover(function(){
+    $("#p4").show();
+  });
+});
+
+$(document).ready(function(){
+  $("#work5").mouseleave(function(){
+    $("#p5").hide();
+  });
+});
+
+$(document).ready(function(){
+  $("#work5").mouseover(function(){
+    $("#p5").show();
+  });
+});
+
+$(document).ready(function(){
+  $("#work6").mouseover(function(){
+    $("#p6").show();
+  });
+});
+
+$(document).ready(function(){
+  $("#work6").mouseleave(function(){
+    $("#p6").hide();
+  });
+});
+
+$(document).ready(function(){
+  $("#work7").mouseover(function(){
+    $("#p7").show();
+  });
+});
+
+$(document).ready(function(){
+  $("#work7").mouseleave(function(){
+    $("#p7").hide();
+  });
+});
+
+$(document).ready(function(){
+  $("#work8").mouseover(function(){
+    $("#p8").show();
+  });
+});
+
+$(document).ready(function(){
+  $("#work8").mouseleave(function(){
+    $("#p8").hide();
+  });
+});
