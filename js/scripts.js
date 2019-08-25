@@ -136,3 +136,25 @@ $(document).ready(function(){
     $("#p8").hide();
   });
 });
+
+// funtion response(){
+// var name = toString.document.getElementByClass("Name");
+// alert("Hi" + " " + name + "Your response is well received. We will definitely get back to you as soon! Thank you");
+// };
+
+$(document).ready(function(){
+  $("#button").click(function(event){
+    var name =$("#Name").val();
+    var mail =$("email_Address").val();
+    var mess =$("message").val();
+
+    if (name === "" || mail === "" || mess === ""){
+      alert("Please fill up all fields as required!")
+    } else {
+      alert ("Hi" + " " + name + "," + "Your response is well received. We will definitely get back to you as soon! Thank you!")
+    }
+
+    event.preventDefault();
+
+  });
+});
