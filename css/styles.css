@@ -1,10 +1,12 @@
+body{
+  font-family: 'Merienda', cursive;
+}
 #section1{
   height: 628px;
   background-size: cover;
   background-image: url("../img/h_img.jpg");
   background-repeat: no-repeat;
-  text-align: center;
-
+  text-align: middle;
 }
 
 #span{
@@ -33,18 +35,18 @@
 }
 
 #section5{
-  height:  628px;
+  height: 500px;
   background-image: url("../img/c_image.jpg");
   text-align: center;
 }
 
+#section6{
+  height: auto;
+  text-align: center;
+}
 
-
-
-
-
-
-
-
-
-  /* confirm height */
+textarea,input[type=text]{
+  background: transparent;
+  border-color: white;
+  border-style: solid;
+}
