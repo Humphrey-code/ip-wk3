@@ -1,27 +1,38 @@
 # IP3
-Project Name;
+#Project Name;
 Delani-Studio
 
 
-Description
-The project is about the Delani Studio,the studio on which people make amazing designs in a fun environment.
-Setup/Installation Requirements.
+#Description
+The project is about the Delani Studio,where people make amazing designs in a fun environment.
+The studio is involved in design, development and product management, with a wide range of portfolios.
 
-BDD
-Behaviour
-*The 'What we do' icons when clicked should toggle between the respective description of each icon. The description should be centered aligned. The header should be in bold and centered also. This should be achieved by using jQuery. *a Hover effect for the **Portfolio ** sections such that on hover a white box appears with then name of the project inside. The project picture is still be visible in the background. *Tell the user through a pop up that you have received their message and also thank them for contacting you .
 
-Input Example
-Name , Email
+#Behaviour Driven Development -BDD
+The 'What we do' icons when clicked should toggle between each of the projects activities. The description is centered aligned. The header should be in bold and centered also.   
+
+The app enlists projects that Delani Studio has been involved in, in the recent past, On it, is a hover effect to show the project details. The project image is still visible from the background. .
+
+The web application allows clients to send in their feedback/query This should be achieved by using jQuery.
+The app alerts the client upon successful submission of the message.
+
+Input required include:-
+
+Name ,
+Email
 A Text Area to leave a comment.
-Output Example
-A pop message
-No Bugs
-no issues
-HTML,CSS,GIT and GITHUB, Javascript,Bootstrap,Terminal text editor,Visual Studio Code editer,JQuery
 
+#Technologies used
 
-https://humphrey-code.github.io/ip-wk3/.
-slack channel
+HTML,CSS,GIT and GITHUB, Javascript,Bootstrap,atom text editor,JQuery
 
-License
+#Live site
+git io page:   https://humphrey-code.github.io/ip-wk3/.
+
+#Incase of any hitch:-
+Kindly reach me on the following channels incase of any hitches
+
+slack channel: https://app.slack.com/client/T077KKCG6/DLZN3AFR7
+
+#License
+Humphrey Mungai 2019 Copyright
