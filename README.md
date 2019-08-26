@@ -1,9 +1,9 @@
 # IP3
-###Project Name;
+### Project Name;
 Delani-Studio
 
 
-###Description
+### Description
 The project is about the Delani Studio,where people make amazing designs in a fun environment.
 The studio is involved in design, development and product management, with a wide range of portfolios.
 
